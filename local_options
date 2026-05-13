@@ -61,6 +61,8 @@
 #define AUTO_SETEUID
 #undef AUTO_TRUST_BACKBONE
 
+#undef AUTO_WIZ
+
 // configs for PACKAGE_PARSE
 #define PARSE_DEBUG /* Only take effect in DEBUG build */
 
